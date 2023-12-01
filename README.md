@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-- 🌱 I’m currently learning **web programming skills at a vocational school.**
+- 🌱 I’m currently learning **web programming skills.**
 
 - 📝 I regularly write articles on [https://zenn.dev/ueferi](https://zenn.dev/ueferi)
 
