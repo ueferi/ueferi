@@ -1,4 +1,4 @@
-## About 湊(ueferi)
+## About ueferi
 
 ### Hi there 👋
 
